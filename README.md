@@ -32,7 +32,7 @@ On the Android/iOS device, enable the Bluetooth communications, and if not done 
 * Push SW2 to send volume down keycode
 * A display terminal can be used to display application messages
 
- ![UG_IMAGE_1](Utilities\media\images\readme_images/test_result.jpg)
+ ![UG_IMAGE_1](Utilities/media/images/readme_images/test_result.jpg)
 
 ## Troubleshooting
 
